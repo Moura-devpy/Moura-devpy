@@ -9,15 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moura-devpy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Moura-devpy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -43,17 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moura-devpy/Moura-devpy/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
